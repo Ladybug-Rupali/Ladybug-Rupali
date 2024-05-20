@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e293091a3ac0085444cd41eb387d7155a913de25590d5b39706ec209f72e5956/68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f692f64347476756b6274356d726133376376776b6c6b2e6769663f7261773d74727565"/>
 
 
-- 🔭 I’m currently working on **Python Fullstack Developer**
+- 🔭 I’m currently working as **Python Fullstack Developer**
 
 - 👯 I’m looking to collaborate on **Django,Python,CSS,JavaScript,Nodejs,Mysql,MongoDB,RestAPI**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rupaligurav0306@gmail.com**
 
-- ⚡ Fun fact **University education is not obligatory**
+- ⚡ Fun fact **+ University education is not obligatory +**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
