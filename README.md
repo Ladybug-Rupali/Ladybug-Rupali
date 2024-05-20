@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rupali Gurav</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/JXA0.gif"/>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif"/>
 
 
 - 🔭 I’m currently working on **Python Fullstack Developer**
