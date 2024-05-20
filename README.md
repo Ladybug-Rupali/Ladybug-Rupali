@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rupali Gurav</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F2498700-Toptal-Scholarship-for-Female-Developers-Winner&psig=AOvVaw17Fq43qbYPeLvfvINtt-aW&ust=1716265308055000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDTvNWwm4YDFQAAAAAdAAAAABAQ"/>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmelinachenani&psig=AOvVaw26V3ul5Jf199RyBJEyRwAL&ust=1716265582081000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCzwtexm4YDFQAAAAAdAAAAABAK"/>
 
 
 - 🔭 I’m currently working on **Python Fullstack Developer**
